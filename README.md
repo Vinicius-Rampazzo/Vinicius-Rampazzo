@@ -1,8 +1,8 @@
 <h1 align="center"> Hello! My name is Vinicius Rampazzo 👋 </h1>
 
-- 🔭 Today I am graduated in Front-End (ReactJS)!
-- 🌱 I'm currently studying Back-End!
-- 😄 Pronouns: He/Her 
+- 🔭 Today I am certified in Front-End (ReactJS)!
+- 🌱 I'm studying Back-End!!
+- 😄 Pronouns: He/His
 
 ##
 

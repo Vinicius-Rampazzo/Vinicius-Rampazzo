@@ -1,7 +1,8 @@
 <h1 align="center"> Hello! My name is Vinicius Rampazzo 👋 </h1>
 
 - 🔭 Today I am certified in Front-End (ReactJS)!
-- 🌱 I'm studying Back-End!!
+- 🌱 Now I am studying Web Development at Trybe !
+- :scream: I'm in love with Marvel movies !!
 - 😄 Pronouns: He/His
 
 ##

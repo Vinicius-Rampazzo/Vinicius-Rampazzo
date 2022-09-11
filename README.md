@@ -3,7 +3,6 @@
 - 🔭 Today I am certified in Front-End (ReactJS)!
 - 🌱 Now I am studying Web Development at Trybe !
 - :scream: I'm in love with Marvel movies !!
-- 😄 Pronouns: He/His
 
 ##
 

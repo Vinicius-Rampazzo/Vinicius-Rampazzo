@@ -16,18 +16,9 @@
   
 ##
   
-<div style="display: inline_block" align="center"><br>
-  <code><img align="center" alt="Logo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img align="center" alt="Logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
-  <code><img align="center" alt="Logo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></code>
-  <code><img align="center" alt="Logo-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img align="center" alt="Logo-Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
-  <code><img align="center" alt="Logo-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"></code>
-  <code><img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="logo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-</div>
 
-  ##
+
+##
   
 <div align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Rampazzo/Vinicius-Rampazzo/output/github-contribution-grid-snake-dark.svg">

@@ -1,4 +1,4 @@
-<h1 align="center"> Fala pessoal! Meu nome é Vinicius Rampazzo 👋 </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=anton&size=30&duration=2000&pause=10000&width=435&lines=Fala+pessoal!+Meu+nome+%C3%A9+Vinicius+Rampazzo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 💻 Hoje sou um Desenvolvedor FullStack!
   

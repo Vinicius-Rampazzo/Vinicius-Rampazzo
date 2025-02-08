@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=anton&size=30&duration=3000&pause=8000&color=0A9A17&width=435&lines=Fala+pessoal!+Meu+nome+%C3%A9+Vinicius+Rampazzo+%F0%9F%91%8B)](https://git.io/typing-svg)
-##
+<h1 align="center"> Fala pessoal! Meu nome é Vinicius Rampazzo 👋 </h1>
 
-💻 Hoje sou um Desenvolvedor FullStack!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=2000&color=1F9F3C&width=435&lines=Desenvolvedor+FullStack!+%F0%9F%92%BB;Desenvolvedor+Front-End!+%F0%9F%92%BB;Desenvolvedor+Back-End!+%F0%9F%92%BB)](https://git.io/typing-svg)
   
 🔐 Sou apaixonado por tecnologia e trilhei um intenso caminho de aprendizado em programação, consolidando minha formação pela Trybe. No entanto, minha sede por conhecimento me levou além do desenvolvimento: iniciei minha graduação em Defesa Cibernética na FIAP. Agora, além de criar, estou me especializando em proteger cada linha de código que construo!
   

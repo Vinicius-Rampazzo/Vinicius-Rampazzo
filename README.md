@@ -2,7 +2,7 @@
 
 - 📱💻 Hoje sou um Desenvolvedor FullStack!
 - 🚀🔐 Sou apaixonado por tecnologia e trilhei um intenso caminho de aprendizado em programação, consolidando minha formação pela Trybe. No entanto, minha sede por conhecimento me levou além do desenvolvimento: iniciei minha graduação em Defesa Cibernética na FIAP. Agora, além de criar, estou me especializando em proteger cada linha de código que construo!
-- :scream:🔥 Quero te convidar a mergulhar no mundo da tecnologia comigo! 🚀 No meu blog, compartilho artigos sobre diversos temas tecnológicos para te manter sempre atualizado. Não fique de fora, acesse agora: www.techinforme.com.br e fique por dentro das novidades!
+- :scream:🔥 Quero te convidar a mergulhar no mundo da tecnologia comigo! No meu blog, compartilho artigos sobre diversos temas tecnológicos para te manter sempre atualizado. Não fique de fora, acesse agora: www.techinforme.com.br e fique por dentro das novidades!
 
 ##
 

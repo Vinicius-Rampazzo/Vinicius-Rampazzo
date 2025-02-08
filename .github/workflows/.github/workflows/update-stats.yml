@@ -1,0 +1,26 @@
+name: Atualizar Readme com Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Executa a cada 6 horas
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Atualizar o README com GitHub Readme Stats
+        run: |
+          curl -o README.md "https://github-readme-stats.vercel.app/api?username=Vinicius-Rampazzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+          curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Rampazzo&layout=compact&langs_count=8&theme=dark"
+
+      - name: Commit e Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Atualizando Readme automaticamente"
+          git push

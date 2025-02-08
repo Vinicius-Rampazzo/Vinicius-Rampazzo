@@ -18,7 +18,7 @@
   
 <div style="display: inline_block" align="center"><br>
   <code><img align="center" alt="Logo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img align="center" alt="Logo-Typescript" height="50" width="50" src="https://img.icons8.com/?size=50&id=cHBUT9SmrD2V&format=png"></code>
+  <code><img align="center" alt="Logo-Typescript" height="46" width="46" src="https://img.icons8.com/?size=50&id=cHBUT9SmrD2V&format=png"></code>
   <code><img align="center" alt="logo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
   <code><img align="center" alt="Logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
   <code><img align="center" alt="Logo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></code>

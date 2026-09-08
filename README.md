@@ -9,17 +9,17 @@
   <a href="https://www.linkedin.com/in/vinicius-rampazzo-web-developer/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
   </a>
-···
+
   <a href="https://www.instagram.com/vinicius_rampazzo" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram"/>
   </a>
-···
+
   <a href="https://devrampazzo.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFÓLIO-FF6B00?style=for-the-badge&logo=code&logoColor=white" alt="Portfólio"/>
   </a>
-  ···
+
 </p>
-···
+
 Sou **Software Engineer**, com foco no desenvolvimento de produtos digitais, aplicações Full Stack, Inteligência Artificial e arquiteturas pensadas para resolver problemas reais.
 
 Minha atuação combina **desenvolvimento web, aplicações mobile, sistemas com IA, RAG, arquitetura offline-first, APIs, bancos de dados e segurança de aplicações**.
@@ -233,12 +233,6 @@ Gosto de trabalhar além da interface, pensando também na arquitetura, modelage
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Rampazzo/Vinicius-Rampazzo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-Rampazzo/Vinicius-Rampazzo/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vinicius-Rampazzo/Vinicius-Rampazzo/output/github-contribution-grid-snake.svg">
-</picture>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Rampazzo/Vinicius-Rampazzo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-Rampazzo/Vinicius-Rampazzo/output/pacman-contribution-graph.svg">
-  <img align="center" alt="Grafico de contribuições Pac-Man" src="https://raw.githubusercontent.com/Vinicius-Rampazzo/Vinicius-Rampazzo/output/pacman-contribution-graph.svg">
 </picture>
 
 ---

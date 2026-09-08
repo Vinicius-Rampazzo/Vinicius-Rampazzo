@@ -1,4 +1,4 @@
-# Bem-vindo ao perfil de [Vinicius Rampazzo](https://devrampazzo.com.br/)! 👋
+# Bem-vindo ao meu perfil! 👋
 
 <div align="center">
 

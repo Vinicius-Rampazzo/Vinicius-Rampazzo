@@ -7,7 +7,7 @@
 </div>
 
 <p>
-  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/vinicius-rampazzo-web-developer/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/vinicius-rampazzo-web-developer/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
   </a>
 
